@@ -1,0 +1,27 @@
+body {
+    padding: 0;
+    margin: 0px
+}
+
+#box {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background: red
+}
+
+.line {
+    position: absolute;
+    border: 0.5px dotted red;
+}
+
+.a {
+    left: 100px;
+    height: 100%;
+
+}
+
+.b {
+    top: 100px;
+    width: 100%;
+}
